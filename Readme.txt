@@ -1,0 +1,1 @@
+The story of this code started when I had to manually copy the links of all the items and give them to the bot to download from the private Telegram group. With this code, I can give the beginning and end of the items and get the link.
